@@ -66,10 +66,10 @@ Source: [cuban-pulled-pork-paninis](https://www.epicurious.com/recipes/food/view
 1. Slice the loaf of bread in half horizontally.
 1. Spread a thin layer of mustard on the bottom half of the bread
 1. Layer:
-  1. 1 package of the Swiss cheese,
-  1. All of the pickle slices,
-  1. All of the ham slices
-  1. A generous amount of pulled pork
+    1. 1 package of the Swiss cheese,
+    1. All of the pickle slices,
+    1. All of the ham slices
+    1. A generous amount of pulled pork
 1. Top the pork with the remaining 1 package of Swiss cheese
 1. Place the other half of the bread loaf on top of the Swiss cheese.
 
