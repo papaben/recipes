@@ -2,6 +2,19 @@
 
 Source: [Instapot Corned Beef and Cabbage](https://www.familyfreshmeals.com/2017/03/instant-pot-corned-beef-and-cabbage.html)
 
+# Time required
+
+## Active
+
+1. A minute to prep garlic
+1. A few minutes to get out Instapot and put in meat
+1. Probably 5 minutes to cut up vegetables
+1. A few minutes between meat and veggie step
+
+## Cooking
+
+1. Around 90 minutes total
+
 # Ingredients
 
 ## Ingredients: vegetables
@@ -44,7 +57,7 @@ Source: [Instapot Corned Beef and Cabbage](https://www.familyfreshmeals.com/2017
 
 # You're done!
 
-It's time to eat! 
+It's time to eat!
 
 Some folks prefer to discard the stew liquid and eat just the vegetables. I prefer to save the stew b/c it absorbs the vitamins and minerals from the food as it cooks.
 
