@@ -51,7 +51,7 @@ https://www.epicurious.com/recipes/food/views/old-fashioned-meat-loaf-11676
  1. Moderate heat
  1. Add all ingredients from skillet phase 1
  1. Cover
- 1. *Around 5 minutes*, stir occasionally until carrot is tender
+ 1. *Around 10 minutes*, stir occasionally until carrot is tender
 
 ## Cook veggies: Phase 1
 
@@ -67,6 +67,7 @@ https://www.epicurious.com/recipes/food/views/old-fashioned-meat-loaf-11676
  1. Transfer into a shallow 10 by 5 inch pan, distribute evenly
  1. Spread 1/3 cup ketchup on the top
  1. Bake *1 hour* or until a meat thermometer inserted in center registers 155°F
+ 1. Let it cool off before you eat it
 
 That's it!
 
