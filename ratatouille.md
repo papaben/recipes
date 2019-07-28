@@ -11,7 +11,7 @@ Source: https://www.marthastewart.com/332294/ratatouille
 
 1. Coarse salt and ground pepper
 1. 1 bay leaf
-1. 1 head garlic, cloves smashed and peeled
+1. 1 head garlic
 1. 1 tablespoon fresh marjoram or oregano leaves
 
 ## Sauces
@@ -46,17 +46,18 @@ Source: https://www.marthastewart.com/332294/ratatouille
 
 ## Cook Veggies
 
-1. Dice zucchini
-1. Dice onions
-1. Dice peppers 
 1. In a large Dutch oven or heavy pot, heat 4 tablespoons oil over medium
+1. Dice onions
 1. Add onion
 1. Cook, stirring occasionally, until translucent, *5 minutes*
+1. Smash and peel garlic
 1. Add garlic
 1. Cook until onions and garlic are soft, *5 minutes*
+1. Dice peppers 
 1. Add peppers
 1. Cook, stirring, until crisp-tender, *4 minutes*
-1. Season with salt and pepper.
+1. Dice zucchini
+1. Season pot with salt and pepper.
 
 ## Mix & simmer
 
