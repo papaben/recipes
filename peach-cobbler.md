@@ -2,6 +2,8 @@
 
 https://www.allrecipes.com/recipe/51535/fresh-southern-peach-cobbler/
 
+There's [a video](https://www.allrecipes.com/video/10045/fresh-southern-peach-cobbler/) on the page that walks through making the cobbler. It's 3 minutes and definitely worth it.
+
 # Tools
 
  1. Oven
