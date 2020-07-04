@@ -46,13 +46,13 @@ There's [a video](https://www.allrecipes.com/video/10045/fresh-southern-peach-co
 
 1. Peel, pit, and slice peaches into thin wedges
 1. In large bowl, combine:
-  1. Peaches
-  1. 1/4 cup white sugar
-  1. 1/4 cup brown sugar
-  1. 1/4 teaspoon cinnamon
-  1. Nutmeg
-  1. Lemon juice
-  1. Cornstarch
+   1. Peaches
+   1. 1/4 cup white sugar
+   1. 1/4 cup brown sugar
+   1. 1/4 teaspoon cinnamon
+   1. Nutmeg
+   1. Lemon juice
+   1. Cornstarch
 1. Toss to coat evenly
 1. Pour into baking dish. 
 1. Bake in preheated oven for *10 minutes*
@@ -61,11 +61,11 @@ There's [a video](https://www.allrecipes.com/video/10045/fresh-southern-peach-co
 Meanwhile, 
 
 1. In the other large bowl, combine
-  1. Flour
-  1. 1/4 cup white sugar
-  1. 1/4 cup brown sugar
-  1. Baking powder
-  1. Salt
+   1. Flour
+   1. 1/4 cup white sugar
+   1. 1/4 cup brown sugar
+   1. Baking powder
+   1. Salt
 1. Blend in butter with your fingertips, or a pastry blender, until mixture resembles coarse meal
 1. Stir in boiling water until just combined
 
