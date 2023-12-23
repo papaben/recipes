@@ -9,16 +9,15 @@ https://cheneetoday.com/soul-food-baked-mac-and-cheese/
 1. Whisk
 
 # Ingredients
-16 oz. elbow macaroni
-4 tablespoon salted butter
-2 large egg
-2 13 oz. can evaporated milk
-3 cup whole milk
+ * 16 oz. elbow macaroni
+ * 4 tablespoon salted butter
+ * 2 large egg
+ * 2 13 oz. can evaporated milk
+ * 3 cup whole milk
 
-16 oz extra-sharp white cheddar cheese - good quality
-16 oz mild cheddar cheese - or another mild cheese like monterey jack, fontina, or gouda
-16 oz Mascarpone cheese - room temperature
-
+ * 16 oz extra-sharp white cheddar cheese - good quality
+ * 16 oz mild cheddar cheese - or another mild cheese like monterey jack, fontina, or gouda
+ * 16 oz Mascarpone cheese - room temperature
 
 # Prep
 1. Preheat oven to 375°F. 
